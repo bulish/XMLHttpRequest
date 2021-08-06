@@ -49,7 +49,7 @@ const getData = () => {
 			console.log('error');
 		}
 	});
-	request.open('GET', '../../src/data.json');
+	request.open('GET', '../data.json');
 	request.send();
 };
 
