@@ -4,6 +4,7 @@
 
 const loading = () => {
 	let tl = gsap.timeline();
+	tl.fromTo(document.body, { opacity: 0 }, { opacity:1 });
 	tl.fromTo(
 		'h1',
 		{ opacity: 0 },
@@ -55,8 +56,8 @@ const buttonsFunction = () => {
 	}
 };
 
-// functions loading and buttonsFunction are called after 2s because at first data has to be fetched
+// functions loading and buttonsFunction are called after 1s because at first data has to be fetched
 setTimeout(() => {
 	loading();
 	buttonsFunction();
-}, 2000);
+}, 1000);

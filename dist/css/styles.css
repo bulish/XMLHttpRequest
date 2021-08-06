@@ -8,6 +8,11 @@
   font-family: 'Montserrat', sans-serif;
 }
 
+body {
+  overflow-x: hidden;
+  opacity: 0;
+}
+
 h1 {
   font-family: 'Roboto', sans-serif;
   color: #E2306C;
@@ -15,6 +20,7 @@ h1 {
   margin-bottom: 5rem;
   text-align: center;
   font-size: clamp(2rem, 3.5vw, 5.5rem);
+  opacity: 0;
 }
 
 .container {
@@ -27,6 +33,7 @@ h1 {
   width: fit-content;
   margin-left: 2rem;
   margin-right: 2rem;
+  opacity: 0;
 }
 
 .container__card {
