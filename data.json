@@ -1,0 +1,28 @@
+[
+    {
+        "title": "Facebook",
+        "icon": "<i class='fab fa-facebook'></i>",
+        "text": "Facebook is an American online social media and social networking service owned by Facebook, Inc.",
+        "link": "https://en.wikipedia.org/wiki/Facebook"
+    }, {
+        "title": "Instagram",
+        "icon": "<i class='fab fa-instagram'></i>",
+        "text": "Instagram is an American photo and video sharing social networking service created by Kevin Systrom and Mike Krieger.",
+        "link": "https://en.wikipedia.org/wiki/Instagram"
+    }, {
+        "title": "Twitter",
+        "icon": "<i class='fab fa-twitter'></i>",
+        "text": "Twitter is an American microblogging and social networking service on which users post and interact with messages known as tweets.",
+        "link": "https://en.wikipedia.org/wiki/Twitter"  
+    }, {
+        "title": "Snapchat",
+        "icon": "<i class='fab fa-snapchat'></i>",
+        "text": "Snapchat is an American multimedia instant messaging app and service developed by Snap Inc., originally Snapchat Inc.",
+        "link": "https://en.wikipedia.org/wiki/Snapchat"
+    }, {
+        "title": "WhatsApp",
+        "icon": "<i class='fab fa-whatsapp'></i>",
+        "text": "WhatsApp, is an American freeware, cross-platform centralized instant messaging and voice-over-IP service owned by Facebook.",
+        "link": "https://en.wikipedia.org/wiki/WhatsApp"
+    }
+]
